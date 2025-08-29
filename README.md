@@ -1,13 +1,10 @@
 
 ## Hi, I am Imaad
-## Web 2 and Web 3
-## Java Developer who cannot stay still without creating
-## making the world a better place, one line at a time
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imaad666&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=imaad666&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imaad666&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I am in love with two things at one time and they're: <br/>
+Web 2 and Web 3 <br/>
+Java Developer who cannot stay still without creating <br/>
+<br/>
+making the world a better place, one line at a time <br/>
 
 
 # Tech Stack:
@@ -27,8 +24,18 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=imaad666&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=imaad666&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imaad666&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imaadwani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thenotoriousimi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imaadbinirshad@gmail.com) 
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imaad666&icon=4&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
