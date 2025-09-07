@@ -2,9 +2,9 @@
 ## Hi, I am Imaad
 I am in love with two things at one time and they're: <br/>
 Web 2 and Web 3 <br/>
-Java Developer who cannot stay still without creating <br/>
+Java Developer who cannot stay still without creating. <br/>
 <br/>
-making the world a better place, one line at a time <br/>
+building something great or thinking about forking greatness.<br/>
 
 
 # Tech Stack:
