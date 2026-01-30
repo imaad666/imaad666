@@ -13,4 +13,3 @@ building something great or thinking about forking greatness.<br/>
 
 
 ---
-[![Visitor Count](https://visitcount.itsvg.in/api?id=imaad666&icon=4&color=4)](https://visitcount.itsvg.in)
