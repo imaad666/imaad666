@@ -1,5 +1,5 @@
 
-building something great or thinking about forking greatness.<br/>
+building something great or forking greatness.<br/>
 
 
 
